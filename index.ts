@@ -28,6 +28,7 @@ function main() {
     const Banda1 = new Banda(["Charly", "Nito"], [Album1]);
 
     console.log(Banda1.albums);
+    console.log("somebody changed this code");
 }
 
 main();
